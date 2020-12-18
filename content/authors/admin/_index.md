@@ -14,7 +14,6 @@ organizations:
   url: https://www.rug.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -52,6 +51,3 @@ highlight_name: false
 ---
 
 I am a PhD candidate in the Scientific Visualization and Computer Graphics ([SVCG](https://www.cs.rug.nl/svcg/Main/HomePage)) group of University of Groningen. My research interests include image/shape processing, computer graphics and skeletonization.
-
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
