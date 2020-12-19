@@ -83,7 +83,6 @@ image:
 # slides: example
 ---
 
-# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 The [source code](https://www.dropbox.com/home/CDMD-code) of DMD image compression can be accessed by: https://www.dropbox.com/home/CDMD-code.
 
 
