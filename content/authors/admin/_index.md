@@ -1,5 +1,5 @@
 ---
-title: Jieying Wang (王杰英)
+title: Jieying Wang
 role: PhD candidate
 avatar_filename: 20180328.jpg
 interests:
