@@ -52,7 +52,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  placement: 1
+  placement: 3
   caption: 'DMD computation pipeline'
   focal_point: ""
   preview_only: false
