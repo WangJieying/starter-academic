@@ -22,4 +22,4 @@ superuser: true
 highlight_name: false
 ---
 
-I am a PhD candidate in the Scientific Visualization and Computer Graphics ([SVCG](https://www.cs.rug.nl/svcg/Main/HomePage)) group of University of Groningen. My research interests include image/shape processing, computer graphics and skeletonization.
+I am a PhD candidate in the Scientific Visualization and Computer Graphics ([SVCG](https://www.cs.rug.nl/svcg/Main/HomePage)) group of University of Groningen. My research interests include image/shape processing, computer graphics and skeletonization. My supervisors are [Alexandru C. Telea](https://webspace.science.uu.nl/~telea001/) and [Jiří Kosinka](https://www.cs.rug.nl/svcg/People/JiriKosinka).
