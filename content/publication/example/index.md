@@ -27,18 +27,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: In *information*
 
-abstract: Skeletons are well-known descriptors used for analysis and processing of 2D binary
-images. Recently, dense skeletons have been proposed as an extension of classical skeletons as a dual
-encoding for 2D grayscale and color images. Yet, their encoding power, measured by the quality
-and size of the encoded image, and how these metrics depend on selected encoding parameters,
-has not been formally evaluated. In this paper, we fill this gap with two main contributions. First,
-we improve the encoding power of dense skeletons by effective layer selection heuristics, a refined
-skeleton pixel-chain encoding, and a postprocessing compression scheme. Secondly, we propose
-a benchmark to assess the encoding power of dense skeletons for a wide set of natural and synthetic
-color and grayscale images. We use this benchmark to derive optimal parameters for dense skeletons.
-Our method, called Compressing Dense Medial Descriptors (CDMD), achieves higher-compression
-ratios at similar quality to the well-known JPEG technique and, thereby, shows that skeletons can be
-an interesting option for lossy image encoding.
+abstract: Skeletons are well-known descriptors used for analysis and processing of 2D binary images. Recently, dense skeletons have been proposed as an extension of classical skeletons as a dual encoding for 2D grayscale and color images. Yet, their encoding power, measured by the quality and size of the encoded image, and how these metrics depend on selected encoding parameters, has not been formally evaluated. In this paper, we fill this gap with two main contributions. First, we improve the encoding power of dense skeletons by effective layer selection heuristics, a refined skeleton pixel-chain encoding, and a postprocessing compression scheme. Secondly, we propose a benchmark to assess the encoding power of dense skeletons for a wide set of natural and synthetic color and grayscale images. We use this benchmark to derive optimal parameters for dense skeletons. Our method, called Compressing Dense Medial Descriptors (CDMD), achieves higher-compression ratios at similar quality to the well-known JPEG technique and, thereby, shows that skeletons can be an interesting option for lossy image encoding.
 
 
 tags: []
