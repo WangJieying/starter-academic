@@ -13,7 +13,7 @@ authors:
 
 # Author notes (optional)
 
-# date: "2021-02-8T00:00:00Z"
+date: "2021-02-8T00:00:00Z"
 doi: "10.5220/0010193400450055"
 
 # Schedule page publish date (NOT publication's date).
