@@ -53,7 +53,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   placement: 2
-  caption: 'DMD computation pipeline'
+  caption: 'Average MS-SSIM vs. CR for 10 image types'
   focal_point: ""
   preview_only: false
 
