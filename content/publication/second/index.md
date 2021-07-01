@@ -13,8 +13,8 @@ authors:
 
 # Author notes (optional)
 
-# date: "2020-05-15T00:00:00Z"
-doi: ""
+# date: "2021-02-8T00:00:00Z"
+doi: "10.5220/0010193400450055"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2021-01-01T00:00:00Z"
@@ -54,7 +54,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   placement: 2
-  caption: 'SSDMD pipeline'
+  caption: 'Average quality vs. CR for 150 images'
   focal_point: ""
   preview_only: false
 
