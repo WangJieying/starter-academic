@@ -1,5 +1,5 @@
 ---
-title: "Spline-Based Dense Medial Descriptors for Lossy Image Compression"
+title: "Spline-based medial axis transform representation of binary images"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -11,8 +11,8 @@ authors:
 
 # Author notes (optional)
 
-date: "2021-08-16T00:00:00Z"
-doi: "https://doi.org/10.3390/jimaging7080153"
+date: "2021-05-30T00:00:00Z"
+doi: "https://doi.org/10.1016/j.cag.2021.05.012"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2021-01-01T00:00:00Z"
@@ -24,17 +24,9 @@ doi: "https://doi.org/10.3390/jimaging7080153"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Imaging*
+publication: In *Computers & Graphics*
 
-abstract: Medial descriptors are of significant interest for image simplification, representation,
-manipulation, and compression. On the other hand, B-splines are well-known tools for specifying
-smooth curves in computer graphics and geometric design. In this paper, we integrate the two by
-modeling medial descriptors with stable and accurate B-splines for image compression. Representing
-medial descriptors with B-splines can not only greatly improve compression but is also an effective
-vector representation of raster images. A comprehensive evaluation shows that our Spline-based
-Dense Medial Descriptors (SDMD) method achieves much higher compression ratios at similar or
-even better quality to the well-known JPEG technique. We illustrate our approach with applications
-in generating super-resolution images and salient feature preserving image compression.
+abstract: Medial axes are well-known descriptors used for representing, manipulating, and compressing binary images. In this paper, we present a full pipeline for computing a stable and accurate piece-wise B-spline representation of Medial Axis Transforms (MATs) of binary images. A comprehensive evaluation on a benchmark shows that our method, called Spline-based Medial Axis Transform (SMAT), achieves very high compression ratios while keeping quality high. Compared with the regular MAT representation, the SMAT yields a much higher compression ratio at the cost of a slightly lower image quality. We illustrate our approach on a multi-scale SMAT representation, generating super-resolution images, and free-form binary image deformation.
 
 
 tags: []
@@ -60,7 +52,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   placement: 2
-  caption: 'Comparison of SDMD, JPEG 2000 and BPG'
+  caption: 'Shape manipulation'
   focal_point: ""
   preview_only: false
 
@@ -80,6 +72,6 @@ image:
 # slides: example
 ---
 
-All experiments in this paper, including the original image datasets,
-SDMD encoding results, and computed quality metrics, are openly available at https://github.com/WangJieying/SDMD-resources.
+The source code of SMAT method can be accessed by: https://github.com/WangJieying/SMAT_code.
+
 
