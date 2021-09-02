@@ -9,6 +9,8 @@ interests:
 organizations:
   - name: University of Groningen
     url: https://www.rug.nl/
+  - name: Google scholar profile
+    url: https://scholar.google.com/citations?hl=en&tzom=-120&user=qMZ4ELEAAAAJ
 education:
   courses:
     - course: M.S in Marine Information Science and Engineering
