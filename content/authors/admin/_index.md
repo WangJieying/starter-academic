@@ -9,8 +9,6 @@ interests:
 organizations:
   - name: University of Groningen
     url: https://www.rug.nl/
-  - name: Google scholar profile
-    url: https://scholar.google.com/citations?hl=en&tzom=-120&user=qMZ4ELEAAAAJ
 education:
   courses:
     - course: M.S in Marine Information Science and Engineering
@@ -25,3 +23,5 @@ highlight_name: false
 ---
 
 I am a PhD candidate in the Scientific Visualization and Computer Graphics ([SVCG](https://www.cs.rug.nl/svcg/Main/HomePage)) group of University of Groningen. My research interests include image/shape processing, computer graphics and skeletonization. My supervisors are [Alexandru C. Telea](https://webspace.science.uu.nl/~telea001/) and [Jiří Kosinka](https://www.cs.rug.nl/svcg/People/JiriKosinka).
+
+[Google scholar profile](https://scholar.google.com/citations?hl=en&tzom=-120&user=qMZ4ELEAAAAJ)
